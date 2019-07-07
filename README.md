@@ -1,0 +1,1 @@
+This is a rewrite of Dr. Michael Brigg's FileScan.exe program in Rust.  This program, utilized for L0 processing of GBM Data Files, was originally written in C.

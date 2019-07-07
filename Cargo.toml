@@ -1,0 +1,7 @@
+[package]
+name = "filescan"
+version = "0.1.0"
+authors = ["Joe Asercion <joseph.a.asercion@nasa.gov>"]
+edition = "2018"
+
+[dependencies]
